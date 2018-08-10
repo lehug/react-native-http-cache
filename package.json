@@ -1,6 +1,6 @@
 {
-  "name": "react-native-http-cache",
-  "version": "0.2.0",
+  "name": "react-native-http-cache-55",
+  "version": "1.0.0",
   "description": "Control http cache used by fetch/XMLHttpRequest",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/reactnativecn/react-native-http-cache.git"
+    "url": "git+https://github.com/lehug/react-native-http-cache.git"
   },
   "keywords": [
     "react-native",
@@ -17,12 +17,12 @@
     "http",
     "cache"
   ],
-  "author": "tdzl2003",
+  "author": "lehug",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/reactnativecn/react-native-http-cache/issues"
+    "url": "https://github.com/lehug/react-native-http-cache/issues"
   },
-  "homepage": "https://github.com/reactnativecn/react-native-http-cache#readme",
+  "homepage": "https://github.com/lehug/react-native-http-cache#readme",
   "devDependencies": {
     "babel-eslint": "^4.1.6",
     "eslint": "^1.10.3",
