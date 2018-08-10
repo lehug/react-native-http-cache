@@ -1,5 +1,5 @@
 {
-  "name": "react-native-http-cache-55",
+  "name": "react-native-55-http-cache",
   "version": "1.0.0",
   "description": "Control http cache used by fetch/XMLHttpRequest",
   "main": "index.js",

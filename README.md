@@ -21,7 +21,7 @@ $ npm install react-native-http-cache --save
 
 ```
 include ':RCTHttpCache'
-project(':RCTHttpCache').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-http-cache/android')
+project(':RCTHttpCache').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-55-http-cache/android')
 ```
 
 - Add following lines into your `android/app/build.gradle` in section `dependencies`
@@ -121,7 +121,4 @@ Get cache size for ImageView only.
 
 Return a promise that contain the cache size(in bytes).
 
-## Authors
 
-- [Deng Yun](https://github.com/tdzl2003) from [React-Native-CN](https://github.com/reactnativecn)
-- [Lv Bingru](https://github.com/lvbingru) from [React-Native-CN](https://github.com/reactnativecn)
